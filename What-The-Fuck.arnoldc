@@ -1,0 +1,50 @@
+IT'S SHOWTIME
+
+    HEY CHRISTMAS TREE inputISNum
+    YOU SET US UP 0
+    
+
+    TALK TO THE HAND "Input a first number: "
+
+    HEY CHRISTMAS TREE firstInput
+    YOU SET US UP 0
+    GET YOUR ASS TO MARS firstInput
+    DO IT NOW
+    I WANT TO ASK YOU A BUNCH OF QUESTIONS AND I WANT TO HAVE THEM ANSWERED IMMEDIATELY
+    
+
+    TALK TO THE HAND "Input a second number: "
+
+    HEY CHRISTMAS TREE secondInput
+    YOU SET US UP 0
+    GET YOUR ASS TO MARS secondInput
+    DO IT NOW
+    I WANT TO ASK YOU A BUNCH OF QUESTIONS AND I WANT TO HAVE THEM ANSWERED IMMEDIATELY
+   
+
+    HEY CHRISTMAS TREE result
+    YOU SET US UP 0
+
+    GET TO THE CHOPPER inputISNum
+        HERE IS MY INVITATION firstInput
+        LET OFF SOME STEAM BENNET 0
+        KNOCK KNOCK secondInput
+        LET OFF SOME STEAM BENNET 0
+    ENOUGH TALK
+
+
+    BECAUSE I'M GOING TO SAY PLEASE inputISNum
+        GET TO THE CHOPPER result
+            HERE IS MY INVITATION firstInput
+            GET UP secondInput
+        ENOUGH TALK
+
+        BULLSHIT
+            TALK TO THE HAND "Please enter valid number ! "
+    YOU HAVE NO RESPECT FOR LOGIC
+
+    TALK TO THE HAND "The Result is : "
+    TALK TO THE HAND result
+
+  
+YOU HAVE BEEN TERMINATED
